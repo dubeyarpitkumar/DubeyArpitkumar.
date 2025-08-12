@@ -49,6 +49,6 @@ A modern, responsive e-commerce puma website clone..
 ---
 
 ## 🤝 Let's Connect
-- 📧 Email: **your-email@example.com**
+- 📧 Email: **arpit2dubey@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/dubey-arpitkumar](https://www.linkedin.com/in/dubey-arpitkumar-b33294263)
 - 🌐 Portfolio: [arpit2portfolio.netlify.app](https://arpit2portfolio.netlify.app/)
